@@ -1,0 +1,122 @@
+body {
+    background-image: url(https://static.vecteezy.com/system/resources/previews/000/598/464/original/abstract-colorful-low-poly-vector-background-with-cool-gradient-futuristic-pattern.jpg);
+    margin: 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    text-align: center;
+    width: 100%;
+    height: 4rem;
+    line-height: 4rem;
+    background-color: rgb(255, 255, 255);
+    margin: 0px;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+
+
+a {
+    text-decoration: none;
+    color: rgb(165, 165, 165);
+}
+
+a:hover {
+    opacity: 50%;
+}
+
+main {
+    width: 80vw;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: rgb(125, 198, 224);
+}
+
+
+
+figure {
+    background-color: aliceblue;
+    border: 2rem;
+    border-style: solid;
+    border-color: aliceblue;
+    border-radius: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5rem;
+    width: 50%;
+    height: 50%;
+
+}
+
+figcaption {
+    margin-top: 1rem;
+    font-size: large;
+
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    border-radius: 5%;
+    object-fit: cover;
+}
+
+.about,
+.ingredients,
+.steps {
+    background-color: aliceblue;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 1rem 1rem 0 0;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.ingredients {
+    border-radius: 0;
+}
+
+.steps {
+    border-radius: 0 0 1rem 1rem;
+}
+
+ol,
+ul {
+    text-align: left;
+    font-size: larger;
+    background-color: rgb(226, 234, 241);
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-radius: 1rem;
+
+}
+
+li {
+    width: 80%;
+
+    margin-left: auto;
+    margin-right: auto;
+    padding: .5rem;
+
+}
+
+
+#source {
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: large;
+}
