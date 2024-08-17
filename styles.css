@@ -52,3 +52,15 @@ nav ul li a {
   margin: 1rem 4rem;
   padding-bottom: 1rem;
 }
+
+.hero {
+  width: 60rem;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.hero img {
+  width: 100%;
+  height: auto;
+  border-radius: 2rem;
+}
