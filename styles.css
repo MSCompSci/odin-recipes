@@ -64,3 +64,22 @@ nav ul li a {
   height: auto;
   border-radius: 2rem;
 }
+
+.recipe {
+  padding-bottom: 2rem;
+}
+
+.recipe p {
+  text-align: center;
+  max-width: 30rem;
+  font-size: 1.25rem;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.recipe ul {
+  max-width: 20rem;
+  font-size: 1.5rem;
+  padding: 1rem;
+  margin: 0 auto;
+}
